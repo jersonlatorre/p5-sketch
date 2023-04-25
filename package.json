@@ -1,0 +1,11 @@
+{
+  "name": "p5-sketch",
+  "version": "1.0.2",
+  "description": "Create a p5 sketch and make it public for use in other classes.",
+  "main": "index.js",
+  "author": "Jerson La Torre",
+  "license": "MIT",
+  "dependencies": {
+    "p5": "^1.6.0"
+  }
+}
