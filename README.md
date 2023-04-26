@@ -1,6 +1,6 @@
 # How to use it
 
-Since every class we create in our project needs to be able to use p5 functions, this package solves the problem of having to send the p5 sketch reference through all of them, by externalizing it so that it can be imported independently everywhere.
+Since every class we create in our project needs to be able to use p5 functions, this package solves the problem by exposing the sketch object. So we can import it into any class and use p5 functions as needed.
 
 main.js
 ```javascript
