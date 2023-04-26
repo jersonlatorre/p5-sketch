@@ -31,7 +31,7 @@ export default class MyExternalObject {
 
   draw() {
     p.noStroke()
-    p.fill('red')
+    p.fill('blue')
     p.circle(this.x, this.y, 100)
   }
 }
