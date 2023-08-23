@@ -1,6 +1,7 @@
 {
   "name": "p5-sketch",
-  "version": "1.0.3",
+  "version": "1.1.0",
+  "types": "p5-sketch.d.ts",
   "description": "Create a p5 sketch and make it public for use in other classes.",
   "main": "index.js",
   "author": "Jerson La Torre",
